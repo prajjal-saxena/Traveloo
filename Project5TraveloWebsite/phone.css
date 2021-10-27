@@ -1,0 +1,48 @@
+/* Navbar */
+
+#navbar ul{
+    flex-wrap: wrap;
+}
+#navbar ul li{
+    font-size: 25px;
+}
+
+
+#navbar div{
+    border: 3px solid black;
+    display: inline;
+    padding: 0px;
+    margin-top: 10px;
+    border-radius: 10px;
+}
+
+/* HOME SECTION */
+#home::before{
+    height: 493px;
+}
+
+/* CONTACT US SECTION */
+#logo img{
+  height: 43px;
+  width: 45px;
+  margin-top: 33px;
+}
+
+/* FORM SECTION */
+.form-group input{
+    width: 210px;
+}
+.container button{
+    width: 121px;
+}
+
+/* JOURNEY BOX */
+.journeyBox{
+    border: 2px solid rgb(248, 59, 59);
+    border-radius: 10px;
+}
+
+/* POPULAR SECTION */
+#Popular{
+    margin-top: 84px;
+}
